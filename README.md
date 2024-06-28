@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/098q5qbth1nkvw3w?svg=true)](https://ci.appveyor.com/project/xmifunx/task6-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/lycbcri8u8244dhe?svg=true)](https://ci.appveyor.com/project/xmifunx/task6-2)
